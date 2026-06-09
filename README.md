@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Shashank+Pipal;Aspiring+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;Learning+in+Public;Building+Projects+Every+Day" />
 </p>
 
@@ -106,4 +106,4 @@
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+⭐ If you like my projects, consider giving them a star! -->
