@@ -107,8 +107,6 @@
 
 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/shashank-pipal/) · [GitHub](https://github.com/shashankcodes-10)
 
-<img src="https://komarev.com/ghpvc/?username=shashankcodes-10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
