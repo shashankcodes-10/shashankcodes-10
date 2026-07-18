@@ -1,194 +1,114 @@
-<h1 align="center">Hi 👋, I'm Shashank Pipal</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Aspiring DevOps Engineer | Cloud Enthusiast | AWS | Kubernetes | Terraform | CI/CD
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Shashank%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72F&center=true&vCenter=true&width=900&lines=Aspiring+DevOps+Engineer;Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+AWS;CI%2FCD+Automation+with+Jenkins;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=Aspiring+DevOps+Engineer;From+%22works+on+my+machine%22+to+%22works+everywhere%22;Automating+builds+%7C+Shipping+containers;Linux+%2B+Docker+%2B+Kubernetes+%2B+CI%2FCD+%2B+Cloud" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-# 💫 About Me
+<a href="https://linkedin.com/in/shashank-pipal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/shashankcodes-10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-🎯 Aspiring **DevOps Engineer** passionate about building scalable, automated, and cloud-native infrastructure.
-
-💻 I enjoy working with Infrastructure as Code, CI/CD pipelines, Kubernetes, Monitoring, and Cloud technologies.
-
-🌱 Currently improving my skills in:
-
-- Kubernetes
-- GitOps
-- AWS
-- Infrastructure Automation
-- Monitoring & Observability
-
-⚡ Goal:
-Become a Cloud & DevOps Engineer capable of designing highly available and production-ready infrastructure.
+</div>
 
 ---
 
-# 🚀 Tech Stack
+### 👨‍💻 About Me
 
-## ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
----
-
-## 💻 Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux" />
-</p>
+- 🎓 Final-year **B.Tech CSE** student, graduating 2026
+- 🚀 Building hands-on expertise across the **full DevOps lifecycle** — from Linux fundamentals to production-grade Kubernetes platforms
+- 🛠️ Previously interned as a **Full Stack Engineer**, now focused full-time on DevOps/SRE
+- ✍️ Sharing what I learn through a **DevOps-for-freshers series on LinkedIn** — Linux, Git, Docker, Shell Scripting, and beyond
+- 🎯 Currently targeting **DevOps/SRE entry-level roles and internships**
+- ⚡ Fun fact: I dual-boot Ubuntu just so I never have to say "it works on my machine"
 
 ---
 
-## ⚙️ DevOps & Automation
+### 🧰 Tools & Technologies
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git" />
+**Linux · Scripting · Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github"/>
 
-<img src="https://skillicons.dev/icons?i=github" />
+**Containers & Orchestration**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm"/>
 
-<img src="https://skillicons.dev/icons?i=bash" />
+**CI/CD**
+<br/>
+<img src="https://skillicons.dev/icons?i=jenkins"/>
 
-<img src="https://skillicons.dev/icons?i=python" />
+**Infrastructure as Code & Configuration**
+<br/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
 
-<img src="https://skillicons.dev/icons?i=docker" />
+**Monitoring & Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
 
-<img src="https://skillicons.dev/icons?i=kubernetes" />
+**Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
-<img src="https://skillicons.dev/icons?i=jenkins" />
-
-<img src="https://skillicons.dev/icons?i=terraform" />
-
-<img src="https://skillicons.dev/icons?i=ansible" />
-
-<img src="https://skillicons.dev/icons?i=prometheus" />
-
-<img src="https://skillicons.dev/icons?i=grafana" />
-
-<img src="https://skillicons.dev/icons?i=helm" />
-
-<img src="https://skillicons.dev/icons?i=aws" />
-
-</p>
-
----
-
-## 🛡 Security & DevSecOps
-
-<p>
-
+**DevSecOps & GitOps**
+<br/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-
-</p>
-
----
-
-## 📊 Monitoring
-
-<p>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/cAdvisor-326CE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Node%20Exporter-339933?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🚀 GitOps
-
-<p>
-
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 
-</p>
+**Observability Exporters**
+<br/>
+<img src="https://img.shields.io/badge/cAdvisor-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node%20Exporter-E6522C?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shashankcodes-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankcodes-10&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shashankcodes-10&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankcodes-10&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankcodes-10&theme=tokyonight&hide_border=true"/>
+</div>
 
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shashankcodes-10&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+### 📈 Contribution Graph
 
-<p align="center">
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankcodes-10&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shashankcodes-10&theme=onedark&margin-w=15&margin-h=15"/>
-
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+### 🐍 Contribution Snake
 
-<p align="left">
-
-<a href="https://linkedin.com/in/shashank-pipal">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/shashankcodes-10/shashankcodes-10/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shashankcodes-10&label=Profile%20Views&color=0e75b6&style=flat"/>
+📫 **Reach me:** [LinkedIn](https://linkedin.com/in/shashank-pipal/) · [GitHub](https://github.com/shashankcodes-10)
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=shashankcodes-10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
-<p align="center">
-
-### ⭐ "Automating today for a better tomorrow."
-
-</p>
+</div>
