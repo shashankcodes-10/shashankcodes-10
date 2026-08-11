@@ -17,12 +17,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech CSE** student, graduating 2026
-- 🚀 Building hands-on expertise across the **full DevOps lifecycle** — from Linux fundamentals to production-grade Kubernetes platforms
-- 🛠️ Previously interned as a **Full Stack Engineer**, now focused full-time on DevOps/SRE
-- ✍️ Sharing what I learn through a **DevOps-for-freshers series on LinkedIn** — Linux, Git, Docker, Shell Scripting, and beyond
-- 🎯 Currently targeting **DevOps/SRE entry-level roles and internships**
-- ⚡ Fun fact: I dual-boot Ubuntu just so I never have to say "it works on my machine"
+- 🚀 Building hands-on expertise across the full DevOps lifecycle — Linux, CI/CD, containers, and cloud infrastructure
+
+- 🛠️ Skilled in Docker, Kubernetes, Helm, Jenkins, Terraform, and AWS, with growing focus on observability (Prometheus, Grafana)
+
+- 🎯 Actively seeking DevOps/SRE entry-level roles and internships to apply these skills in production environments
 
 ---
 
