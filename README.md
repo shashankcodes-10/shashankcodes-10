@@ -19,7 +19,7 @@
 
 - 🚀 Building hands-on expertise across the full DevOps lifecycle — Linux, CI/CD, containers, and cloud infrastructure
 
-- 🛠️ Skilled in Docker, Kubernetes, Helm, Jenkins, Terraform, and AWS, with growing focus on observability (Prometheus, Grafana)
+- 🛠️ Skilled in Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, AWS, and ArgoCD , with growing focus on monitoring & observability on Prometheus, Grafana, and OpenTelemetry
 
 - 🎯 Actively seeking DevOps/SRE entry-level roles and internships to apply these skills in production environments
 
@@ -31,15 +31,17 @@
 
 **Linux · Scripting · Version Control**
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github"/>
 
 **Containers & Orchestration**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
 
-**CI/CD**
+**CI/CD & GitOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 
 **Infrastructure as Code & Configuration**
 <br/>
@@ -48,22 +50,22 @@
 **Monitoring & Observability**
 <br/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 
 **Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=aws"/>
 
-**DevSecOps & GitOps**
+**DevSecOps**
 <br/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 
 **Observability Exporters**
 <br/>
 <img src="https://img.shields.io/badge/cAdvisor-326CE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node%20Exporter-E6522C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge"/>
 
 </div>
 
@@ -78,14 +80,6 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankcodes-10&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankcodes-10&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
